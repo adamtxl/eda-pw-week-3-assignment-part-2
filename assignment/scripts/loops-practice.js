@@ -29,7 +29,7 @@ for (let i = 3; i < 6; i++){ //started i at 3 and less than 6, then iterate
 console.log('count even numbers from 2 to 10 (2, 4, 6, 8, 10):');
 
 for (let i = 0; i < 11; i++){ //i starts at 0 again and we're going up to 10, so less than 11
-  if ([i] % 2 === 0); //if the value of i is divided by 2 with no remainder, console.log the value
+  if ([i] % 2 === 0) //if the value of i is divided by 2 with no remainder, console.log the value
   console.log(i);
 }
 // 1.d. (STRETCH) TODO: Write a for loop to do a countdown from 5 to 0
